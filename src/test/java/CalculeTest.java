@@ -14,7 +14,7 @@ class CalculeTest {
 
     @Test
     void sommeDeuxNombre() {
-        Assertions.assertEquals(15, c.sommeDeuxNombre(5, 5));
+        Assertions.assertEquals(10, c.sommeDeuxNombre(5, 5));
     }
 
     @Test
